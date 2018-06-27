@@ -1,0 +1,311 @@
+{
+  "general": [
+   {
+      "id": "5yc1vZch9f",
+      "iconsPath": "ProductBox_GoogleHomeMaxChalk",
+      "productBg":"Google_Home_Max_Chalk/Google_HomeMaxChalk",
+      "rating":  4.0,
+      "reviews": 50,
+      "slides": [
+        "Google_Home_Max_Chalk/Gallery_Images/GalleryImages_GoogleHomeMaxChalk_01",
+        "Google_Home_Max_Chalk/Gallery_Images/GalleryImages_GoogleHomeMaxChalk_02",
+        "Google_Home_Max_Chalk/Gallery_Images/GalleryImages_GoogleHomeMaxChalk_03",
+        "Google_Home_Max_Chalk/Gallery_Images/GalleryImages_GoogleHomeMaxChalk_04",
+        "Google_Home_Max_Chalk/Gallery_Images/GalleryImages_GoogleHomeMaxChalk_05"
+      ],
+      "thumbails": [
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_01",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_02",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_03",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_04",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_05"
+      ],
+      "specification": "Google_Home_Max_Chalk/ProductInfo_GoogleHomeMaxChalk"
+    },
+    {
+      "id": "5yc1vZbm79",
+      "iconsPath": "ProductBox_GoogleHomeMiniChalk",
+      "productBg":"Google_Home_Mini_Chalk/Google_HomeMiniChalk",
+      "rating":  4.5,
+      "reviews": 2324,
+      "slides": [
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_01",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_02",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_03",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_04",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_05",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_06",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_07",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_08"
+      ],
+      "thumbails": [
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_01",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_02",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_03",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_04",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_05",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_06",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_07",
+        "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_08"
+      ],
+      "specification": "Google_Home_Mini_Chalk/ProductInfo_GoogleHomeMiniChalk"
+    },
+    {
+      "id": "5yc1vZc5kl",
+      "iconsPath": "ProductBox_GoogleHome",
+      "productBg":"Google_Home/GoogleHome",
+      "rating":  5.0,
+      "reviews": 729,
+      "slides": [
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_01",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_02",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_03",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_04",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_05",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_06",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_07",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_08",
+        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_09"
+      ],
+      "thumbails": [
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_01",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_02",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_03",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_04",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_05",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_06",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_07",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_08",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_09"
+      ],
+      "specification": "Google_Home/ProductInfo_GoogleHome"
+    },
+    {
+      "id": "5yc1vZca7cc",
+      "iconsPath": "ProductBox_GoogleWiFi3Pack",
+      "productBg":"Google_WiFi_3_Pack/Google_WiFi3Pack5802.1acWirelessRouter",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_01",
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_02",
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_03",
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_04"
+      ],
+      "thumbails": [
+        "Google_WiFi_3_Pack/Gallery_Thumbnails/GalleryThumbnail_GoogleWifi_01",
+        "Google_WiFi_3_Pack/Gallery_Thumbnails/GalleryThumbnail_GoogleWifi_02",
+        "Google_WiFi_3_Pack/Gallery_Thumbnails/GalleryThumbnail_GoogleWifi_03",
+        "Google_WiFi_3_Pack/Gallery_Thumbnails/GalleryThumbnail_GoogleWifi_04"
+      ],
+      "specification": "Google_WiFi_3_Pack/ProductInfo_GoogleWifi3Pack"
+    },
+     {
+      "id": "5yc1vZcx9o2",
+      "iconsPath": "ProductBox_NestCopperLearningThermostat",
+      "productBg":"Nest_Copper_Learning_Thermostat/Nest_CopperLearning3rdGenerationThermostatwithBuilt-InWiFi",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_01",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_02",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_03",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_04",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_05"
+      ],
+      "thumbails": [
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_01",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_02",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_03",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_04",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_05"
+      ],
+      "specification": "Nest_Copper_Learning_Thermostat/ProductInfo_NestCopperLearningThermostat"
+    },
+    {
+      "id": "5yc1vZcv9o2",
+      "iconsPath": "ProductBox_NestStainlessSteelLearningThermostat",
+      "productBg": "Nest_Stainelss_Steel_Learning_Thermostat/Nest_StainlessSteelLearning3rdGenerationThermostatwithWiFi",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_01",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_02",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_03",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_04",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_05",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_06",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_07",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_08"
+      ],
+      "thumbails": [
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_01",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_02",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_03",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_04",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_05",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_06",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_07",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_08"
+      ],
+      "specification": "Nest_Stainelss_Steel_Learning_Thermostat/ProductInfo_NestStainlessSteelLearningThermostat"
+    },
+    {
+      "id": "5yc1vZcz9o2",
+      "iconsPath": "ProductBox_ecobee4BlackThermostat",
+      "productBg":"ecobee4_Black_Thermostat/ecobee4_BlackThermostatwithWifiCompatibility",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_01",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_02",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_03",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_04",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_05",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_06",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_07",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_08",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_09",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_10"
+      ],
+      "thumbails": [
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_01",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_02",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_03",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_04",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_05",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_06",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_07",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_08",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_09",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_10"
+      ],
+      "specification": "ecobee4_Black_Thermostat/ProductInfo_ecobee4BlackThermostat"
+    },
+    {
+      "id": "5yc1vZc9co2",
+      "iconsPath": "ProductBox_GoogleHomeMaxCharcoal",
+      "productBg":"Google_Home_Max_Charcoal/Google_HomeMaxCharcoal",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_01",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_02",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_03",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_04",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_05",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_06",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_07"
+      ],
+      "thumbails": [
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_01",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_02",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_03",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_04",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_05",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_06",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_07"
+      ],
+      "specification": "Google_Home_Max_Chalk/ProductInfo_GoogleHomeMaxCharcoal"
+    },
+    {
+      "name": "Honeywell Silver Wi-Fi Smart Color Thermostat",
+      "id": "5yc1vZc9so2",
+      "iconsPath": "ProductBox_NestWhiteEThermostat",
+      "productBg":"Nest_White_E_Thermostat/Nest_WhiteEThermostatWithWiFiCompatibility",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_01",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_02",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_03",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_04",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_05",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_06"
+      ],
+      "thumbails": [
+        "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_01",
+        "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_02",
+        "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_03",
+        "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_04",
+        "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_05",
+        "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_06"
+      ],
+      "specification": "Nest_White_E_Thermostat/ProductInfo_NestWhiteEThermostat"
+    },
+    {
+      "id": "5yc1vZcs9od2",
+      "iconsPath": "ProductBox_NestWhiteTemperatureSensorThermostat",
+      "productBg":"Nest_White_Temperature_Sensor_Thermostat/Nest_WhiteTemperatureSensorThermostat",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_01",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_02",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_03",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_04",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_05",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_06"
+      ],
+      "thumbails": [
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_01",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_02",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_03",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_04",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_05",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_06"
+      ],
+      "specification": "Nest_White_Temperature_Sensor_Thermostat/ProductInfo_NestWhiteTemperatureSensorThermostat-"
+    },
+    {
+      "id": "5yc1vsZc9co2",
+      "iconsPath": "ProductBox_HoneywellBlackLyricT5Thermostat",
+      "productBg":"Honeywell_Black_Lyric_T5_Thermostat/Honeywell_BlackLyricT5ThermostatWithWiFiCompatibility",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImages_HoneywellBlackLyricTherm_01",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImages_HoneywellBlackLyricTherm_02",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImages_HoneywellBlackLyricTherm_03"
+      ],
+      "thumbails": [
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbail_HoneywellBlackLyric_01",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbail_HoneywellBlackLyric_02",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbail_HoneywellBlackLyric_03"
+      ],
+      "specification": "Honeywell_Black_Lyric_T5_Thermostat/ProductInfo_HoneywellBlack-yricT5Thermostat"
+    },
+    {
+      "id": "5yc1vsZc9o2",
+      "iconsPath": "ProductBox_HoneywellSilverWiFiSmartColorThermostat",
+      "productBg":"Honeywell_Silver_WiFi_Smart_Color_Thermostat/Honeywell_SilverWiFi-SmartColorThermostatwithBuilt-InWiFi",
+      "rating":  3.5,
+      "reviews": 32,
+      "slides": [
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_01",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_02",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_03",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_04",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_05",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_06",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_07",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_08",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_09",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_10"
+      ],
+      "thumbails": [
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_01",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_02",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_03",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_04",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_05",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_06",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_07",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_08",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_09",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_10"
+      ],
+      "specification": "Honeywell_Silver_WiFi_Smart_Color_Thermostat/ProductInfo_HoneywellSilverThermostat"
+    }
+  ]
+}
