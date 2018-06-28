@@ -14,11 +14,11 @@
         "Google_Home_Max_Chalk/Gallery_Images/GalleryImages_GoogleHomeMaxChalk_05"
       ],
       "thumbails": [
-        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_01",
-        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_02",
-        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_03",
-        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_04",
-        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxChalk_05"
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxChalk_01",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxChalk_02",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxChalk_03",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxChalk_04",
+        "Google_Home_Max_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxChalk_05"
       ],
       "specification": "Google_Home_Max_Chalk/ProductInfo_GoogleHomeMaxChalk"
     },
@@ -29,14 +29,14 @@
       "rating":  4.5,
       "reviews": 2324,
       "slides": [
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_01",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_02",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_03",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_04",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_05",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_06",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_07",
-        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImages_GoogleHomeMiniChalk_08"
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_01",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_02",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_03",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_04",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_05",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_06",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_07",
+        "Google_Home_Mini_Chalk/Gallery_Images/GalleryImage_GoogleHomeMiniChalk_08"
       ],
       "thumbails": [
         "Google_Home_Mini_Chalk/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMiniChalk_01",
@@ -57,26 +57,26 @@
       "rating":  5.0,
       "reviews": 729,
       "slides": [
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_01",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_02",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_03",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_04",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_05",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_06",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_07",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_08",
-        "Google_Home/Gallery_Images/GalleryImages_GoogleHome_09"
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_01",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_02",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_03",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_04",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_05",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_06",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_07",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_08",
+        "Google_Home/Gallery_Images/GalleryImage_GoogleHome_09"
       ],
       "thumbails": [
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_01",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_02",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_03",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_04",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_05",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_06",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_07",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_08",
-        "Google_Home/Gallery_Thumbnails/GalleryThumbail_GoogleHome_09"
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_01",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_02",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_03",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_04",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_05",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_06",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_07",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_08",
+        "Google_Home/Gallery_Thumbnails/GalleryThumbnail_GoogleHome_09"
       ],
       "specification": "Google_Home/ProductInfo_GoogleHome"
     },
@@ -87,10 +87,10 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_01",
-        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_02",
-        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_03",
-        "Google_WiFi_3_Pack/Gallery_Images/GalleryImages_GoogleWifi_04"
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImage_GoogleWifi_01",
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImage_GoogleWifi_02",
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImage_GoogleWifi_03",
+        "Google_WiFi_3_Pack/Gallery_Images/GalleryImage_GoogleWifi_04"
       ],
       "thumbails": [
         "Google_WiFi_3_Pack/Gallery_Thumbnails/GalleryThumbnail_GoogleWifi_01",
@@ -107,18 +107,18 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_01",
-        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_02",
-        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_03",
-        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_04",
-        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImages_CopperTherm_05"
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImage_NestCopper_01",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImage_NestCopper_02",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImage_NestCopper_03",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImage_NestCopper_04",
+        "Nest_Copper_Learning_Thermostat/Gallery_Images/GalleryImage_NestCopper_05"
       ],
       "thumbails": [
-        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_01",
-        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_02",
-        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_03",
-        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_04",
-        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryImages_NestCopperTherm_05"
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestCopper_01",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestCopper_02",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestCopper_03",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestCopper_04",
+        "Nest_Copper_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestCopper_05"
       ],
       "specification": "Nest_Copper_Learning_Thermostat/ProductInfo_NestCopperLearningThermostat"
     },
@@ -129,24 +129,28 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_01",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_02",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_03",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_04",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_05",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_06",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_07",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImages_StainlessSteelTherm_08"
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_01",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_02",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_03",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_04",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_05",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_06",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_07",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_08",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_09",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Images/GalleryImage_NestStainlessSteel_10"
       ],
       "thumbails": [
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_01",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_02",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_03",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_04",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_05",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_06",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_07",
-        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainless_08"
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_01",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_02",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_03",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_04",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_05",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_06",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_07",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_08",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_09",
+        "Nest_Stainelss_Steel_Learning_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestStainlessSteel_10"
       ],
       "specification": "Nest_Stainelss_Steel_Learning_Thermostat/ProductInfo_NestStainlessSteelLearningThermostat"
     },
@@ -157,28 +161,28 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_01",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_02",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_03",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_04",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_05",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_06",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_07",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_08",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_09",
-        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4_10"
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_01",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_02",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_03",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_04",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_05",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_06",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_07",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_08",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_09",
+        "ecobee4_Black_Thermostat/Gallery_Images/GalleryImage_ecobee4Black_10"
       ],
       "thumbails": [
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_01",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_02",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_03",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_04",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_05",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_06",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_07",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_08",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_09",
-        "ecobee4_Black_Thermostat/Gallery_Thumbnails/Thumbnail_ecobee4_10"
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_01",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_02",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_03",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_04",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_05",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_06",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_07",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_08",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_09",
+        "ecobee4_Black_Thermostat/Gallery_Thumbnails/GalleryThumbnail_ecobee4black_10"
       ],
       "specification": "ecobee4_Black_Thermostat/ProductInfo_ecobee4BlackThermostat"
     },
@@ -189,22 +193,22 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_01",
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_02",
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_03",
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_04",
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_05",
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_06",
-        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImages_GoogleHomeMaxCharcoal_07"
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_01",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_02",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_03",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_04",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_05",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_06",
+        "Google_Home_Max_Charcoal/Gallery_Images/GalleryImage_GoogleHomeMaxCharcoal_07"
       ],
       "thumbails": [
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_01",
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_02",
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_03",
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_04",
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_05",
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_06",
-        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbail_GoogleHomeMaxCharcoal_07"
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_01",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_02",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_03",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_04",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_05",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_06",
+        "Google_Home_Max_Charcoal/Gallery_Thumbnails/GalleryThumbnail_GoogleHomeMaxCharcoal_07"
       ],
       "specification": "Google_Home_Max_Charcoal/ProductInfo_GoogleHomeMaxCharcoal"
     },
@@ -215,12 +219,12 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_01",
-        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_02",
-        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_03",
-        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_04",
-        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_05",
-        "Nest_White_E_Thermostat/Gallery_Images/GalleryImages_NestWhiteETherm_06"
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImage_NestWhiteE_01",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImage_NestWhiteE_02",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImage_NestWhiteE_03",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImage_NestWhiteE_04",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImage_NestWhiteE_05",
+        "Nest_White_E_Thermostat/Gallery_Images/GalleryImage_NestWhiteE_06"
       ],
       "thumbails": [
         "Nest_White_E_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteE_01",
@@ -239,20 +243,20 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_01",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_02",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_03",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_04",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_05",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_Nest_WhiteTempTherm_06"
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_NestWhiteTempSensor_01",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_NestWhiteTempSensor_02",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_NestWhiteTempSensor_03",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_NestWhiteTempSensor_04",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_NestWhiteTempSensor_05",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Images/GalleryImage_NestWhiteTempSensor_06"
       ],
       "thumbails": [
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_01",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_02",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_03",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_04",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_05",
-        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempTherm_06"
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempSensor_01",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempSensor_02",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempSensor_03",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempSensor_04",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempSensor_05",
+        "Nest_White_Temperature_Sensor_Thermostat/Gallery_Thumbnails/GalleryThumbnail_NestWhiteTempSensor_06"
       ],
       "specification": "Nest_White_Temperature_Sensor_Thermostat/ProductInfo_NestWhiteTemperatureSensorThermostat-"
     },
@@ -263,14 +267,14 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImages_HoneywellBlackLyricTherm_01",
-        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImages_HoneywellBlackLyricTherm_02",
-        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImages_HoneywellBlackLyricTherm_03"
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImage_HoneywellBlackLyric_01",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImage_HoneywellBlackLyric_02",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Images/GalleryImage_HoneywellBlackLyric_03"
       ],
       "thumbails": [
-        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbail_HoneywellBlackLyric_01",
-        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellBlackLyric_02",
-        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellBlackLyric_03"
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellBlack_01",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellBlack_02",
+        "Honeywell_Black_Lyric_T5_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellBlack_03"
       ],
       "specification": "Honeywell_Black_Lyric_T5_Thermostat/ProductInfo_Hone"
     },
@@ -281,28 +285,28 @@
       "rating":  3.5,
       "reviews": 32,
       "slides": [
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_01",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_02",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_03",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_04",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_05",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_06",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_07",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_08",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_09",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImages_HoneywellSilverTherm_10"
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_01",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_02",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_03",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_04",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_05",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_06",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_07",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_08",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_09",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Images/GalleryImage_HoneywellSilver_10"
       ],
       "thumbails": [
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_01",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_02",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_03",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_04",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_05",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_06",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_07",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_08",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_09",
-        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_Therm_10"
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_01",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_02",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_03",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_04",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_05",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_06",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_07",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_08",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_09",
+        "Honeywell_Silver_WiFi_Smart_Color_Thermostat/Gallery_Thumbnails/GalleryThumbnail_HoneywellSilver_10"
       ],
       "specification": "Honeywell_Silver_WiFi_Smart_Color_Thermostat/ProductInfo_HoneywellSilverThermostat"
     }
